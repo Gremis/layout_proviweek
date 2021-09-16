@@ -20,6 +20,8 @@
 - ScrollIt
 
 ## Aplicação Desenvolvida
+Pode ver a aplicação desenvolvida no endereço seguinte:
 
+https://layout-proviweek.vercel.app/
 
 
